@@ -55,7 +55,7 @@ console.log(abc,xyz)
 
 //***********Octall and Hexadeciamal */
 
-var hex = 0xff
+var hex = 0xff 
 console.log(hex)
 var oct = 0o756
 
